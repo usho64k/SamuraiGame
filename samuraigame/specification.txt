@@ -1,0 +1,62 @@
+
+specification memo.
+
+this is a "simulated no test statuses."
+
+'samurai' is player.
+samurai can use 'katana' for attack other samurai.
+
+'yakusha' are actors or enemies.
+any yakusha are enemies who is very agressive.
+and more any yakusha are enemies if you tried to kill.
+almost yakusha sell any items: 
+1.recover items for 'hit points' or 'life points'. 
+2.power-up items which is cheeting your abilities or your mastles. 
+3.throw items for your attack.
+4.'katana'
+
+there is a lot of paramater you can see.
+samurai... your name
+tairyoku... your vitarity. Many people call it 'HP'
+inochi... your life. Many people call it 'LP'
+seishin... your spirit. Many people call it 'SP'
+rank... your level.
+kougeki... your attack.
+bougyo... your defence.
+
+At the beginning, you can join to a communication room.
+Choose the field, and your adventure will be start.
+When you can move yourself, you can choose your action.
+Field actions:
+1.Move to other place.(Cannot move character. you can choose a road
+for moving to other place.)
+2.Rest any way.(your paramaters are bringing up to have any meal.)
+3.Use any item.(you can have 10 items.)
+4.Find Ashimoto.
+
+Town/Village/Castle actions:
+1.Go out.
+2.Go to a shop(INN,ITEMS(the shop can put 8 products.))
+3.Listen to talk with citizen.
+4.Go to have a look.(Kings or Queens)
+5.Use any item.
+6.Find anything.
+
+Dungeon actions:
+1.Move to go.
+2.Move to back.
+3.Rest.
+4.Use any item.
+5.Find anything.
+
+If you meet enemies, you are in to the battle field.
+Battle field actions:
+1.ATK
+2.Run away
+3.Def
+4.Chrg
+5.item
+6.acrobats
+
+
+
